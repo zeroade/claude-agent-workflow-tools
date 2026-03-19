@@ -1,6 +1,9 @@
 # Prompt Validation Skill  (claude)
 **強制性 Prompt 驗證流程** – Claude Agent Workflow Tools
 
+**使用方式** – 
+/prompt-validate "你要改的prompt"
+
 防止 prompt 改壞、失效、被繞過的標準化驗證流程  
 **任何修改或新設計會影響 AI 判斷行為的文字（prompt），都必須先跑這個流程**
 
